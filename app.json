@@ -1,0 +1,12 @@
+{
+  "name": "bjornsResidence",
+  "displayName": "bjornsResidence",
+  "expo": {
+    "name": "bjornsResidence",
+    "slug": "bjornsResidence",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
